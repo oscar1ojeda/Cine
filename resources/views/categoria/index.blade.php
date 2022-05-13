@@ -1,4 +1,5 @@
 Mostrar la lista de categorias
+Modifique esto para ver en github
 <table class="table table-light">
    
   <thead class="thead-light">
